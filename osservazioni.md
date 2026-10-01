@@ -1,6 +1,6 @@
 # Osservazioni — Esercitazione 0
 
-Gruppo:
+Gruppo: migliore
 
 Componenti (nome, cognome e username GitHub di entrambi):Simone Graziani (SimoneGraziani) Damiano Lattanzi (Damiansky2136)
 
