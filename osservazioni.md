@@ -2,30 +2,30 @@
 
 Gruppo:
 
-Componenti (nome, cognome e username GitHub di entrambi):
+Componenti (nome, cognome e username GitHub di entrambi):Simone Graziani (SimoneGraziani) Damiano Lattanzi (Damiansky2136)
 
 URL del repository condiviso:
 
-Chi ha usato la tastiera nello step 1 e nello step 2:
+Chi ha usato la tastiera nello step 1 e nello step 2:Damiano Lattanzi
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
 
 ## Step 1 — Hello World: compilazione ed esecuzione
 
-Comando di compilazione:
+Comando di compilazione:gcc -std=c17 -Wall -Wextra -Wpedantic hello.c -o hello
 
-Comando di esecuzione e risultato osservato:
+Comando di esecuzione e risultato osservato: ./hello   ; stampa sul terminale la frase " Hello, computational physics! "	      	      
 
-Che cosa ho capito su sorgente ed eseguibile:
+Che cosa ho capito su sorgente ed eseguibile:il sorgente è cio che si scrive sul terminale , l'eseguibile è cio che il computer intende ed elabora.
 
-Output richiesto e comportamento del programma prima della modifica:
+Output richiesto e comportamento del programma prima della modifica:veniva richiesto di stampare a schermo la frase " Hello, computational physics! ".inizialmente nel file emacs si compilava ma non stampava nulla
 
-Esito dopo la modifica e spiegazione della correzione:
+Esito dopo la modifica e spiegazione della correzione:dopo aver aggiunto la sezione di stampaggio sul terminale con il comando printf, una volta salvata la modifica e compilato il file , è stato possibile visualizzare la frase stampata sul terminale
 
 ## Step 1 — Git
 
-Quali file ho incluso nel commit e perché:
+Quali file ho incluso nel commit e perché:hello.c ed esercitazione-0-md
 
 Come ho verificato che la versione provata sia presente su GitHub:
 
