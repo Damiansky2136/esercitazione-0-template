@@ -25,7 +25,7 @@ Esito dopo la modifica e spiegazione della correzione:dopo aver aggiunto la sezi
 
 ## Step 1 — Git
 
-Quali file ho incluso nel commit e perché:hello.c ed esercitazione-0-md
+Quali file ho incluso nel commit e perché:hello.c ed esercitazione-0-md e nessun altro
 
 Come ho verificato che la versione provata sia presente su GitHub:
 
