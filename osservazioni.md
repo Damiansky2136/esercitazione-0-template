@@ -1,7 +1,9 @@
 # Osservazioni — Esercitazione 0
 
 Gruppo: migliore
+
 bella a tutti 
+
 Componenti (nome, cognome e username GitHub di entrambi):Simone Graziani (SimoneGraziani) Damiano Lattanzi (Damiansky2136)
 
 URL del repository condiviso:
